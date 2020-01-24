@@ -7,7 +7,6 @@
   "prefer-stable": true,
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "^201903.0",
     "spryker-shop/product-measurement-unit-widget": "^0.6.2",
     "spryker/product-measurement-unit": "^2.1.0",
     "spryker/product-measurement-unit-data-import": "^1.2.3",
@@ -17,5 +16,8 @@
     "branch-alias": {
       "dev-master": "201903.x-dev"
     }
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
