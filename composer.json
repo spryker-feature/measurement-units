@@ -10,11 +10,11 @@
         "spryker-shop/product-measurement-unit-widget": "^1.0.0",
         "spryker/product-measurement-unit": "^5.3.0",
         "spryker/product-measurement-unit-data-import": "^1.2.3",
-        "spryker/product-measurement-unit-storage": "^1.9.0"
+        "spryker/product-measurement-unit-storage": "^1.11.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202204.x-dev"
+            "dev-master": "202211.x-dev"
         }
     },
     "suggest": {
