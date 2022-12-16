@@ -7,14 +7,14 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.0",
-        "spryker-shop/product-measurement-unit-widget": "^1.0.0",
+        "spryker-shop/product-measurement-unit-widget": "^1.1.0",
         "spryker/product-measurement-unit": "^5.3.0",
         "spryker/product-measurement-unit-data-import": "^1.2.3",
         "spryker/product-measurement-unit-storage": "^1.11.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202211.x-dev"
+            "dev-master": "202212.x-dev"
         }
     },
     "suggest": {
