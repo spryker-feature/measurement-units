@@ -2,6 +2,8 @@
 
 Allows selling products by any unit of measure defined by the shop administrator.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/measurement-units-feature-overview.html)
+
 ## Installation
 
 ```
