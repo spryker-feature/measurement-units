@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.2",
         "spryker-shop/product-measurement-unit-widget": "^1.2.0",
         "spryker/product-measurement-unit": "^5.5.0",
         "spryker/product-measurement-unit-data-import": "^1.2.3",
@@ -14,7 +14,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202407.x-dev"
+            "dev-master": "202410.x-dev"
         }
     },
     "suggest": {
