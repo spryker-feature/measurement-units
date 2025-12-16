@@ -16,4 +16,4 @@ composer require spryker-feature/measurement-units
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [ProductMeasurementUnitsRestApi ^1.1.0](https://github.com/spryker/product-measurement-units-rest-api) (Legacy Glue)
+- [ProductMeasurementUnitsRestApi ^1.2.0](https://github.com/spryker/product-measurement-units-rest-api) (Legacy Glue)
